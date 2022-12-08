@@ -1,7 +1,7 @@
 {
   "name": "node",
   "version": "1.0.0",
-  "description": "belajar mongpdp",
+  "description": "belajar mongodp",
   "main": "app.js",
   "scripts": {
     "dev": "nodemon app.js"
